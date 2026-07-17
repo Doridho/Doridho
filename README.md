@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hello! I am Ridho Javier Mahsa, an Information Systems student with a deep interest and specialized focus in UI/UX Design, System Analysis, and Web Development.<br>I am passionate about bridging user needs with technological solutions through intuitive, aesthetic, and functional interface designs. <br>Backed by my academic background and hands on portfolio experience ranging from management information system design to creative web development,<br>I am wellversed in user research, wireframing, and building high-fidelity prototypes.<br><br>Beyond digital design and technology, <br>I actively explore the AI ecosystem, programming such as PHP, and digital content management. <br>I am always open to collaboration, new challenges, and opportunities to continuously grow in the tech industry.
 
-w
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/ridho.mahsa) 
